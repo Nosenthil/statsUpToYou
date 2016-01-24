@@ -1,0 +1,41 @@
+nav {
+  border-radius: -10px;
+}
+li {
+  margin-right: 50px;
+  margin-top: 10px;
+}
+.container {
+  margin-top: 70px;
+  background-color: #222222;
+}
+.homeImg {
+  width: 100%;
+}
+#stats {
+  margin-top: 60px;
+  margin-left: -10px;
+  margin-right: -10px;
+}
+#stats img {
+  width: 100%;
+}
+#stats h1 {
+  font-size: 40px;
+  text-align: center;
+}
+.statsTwitter {
+  margin-top: 20px;
+}
+.contact {
+  margin-top: 40px;
+}
+.contact div {
+  text-align: center;
+  border: solid 1px white;
+  border-radius: 33px;
+  background-color: white;
+}
+.contact a{
+  color: #222222;
+}
