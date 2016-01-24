@@ -1,0 +1,21 @@
+nav {
+  border-radius: -10px;
+}
+li {
+  margin-right: 50px;
+  margin-top: 10px;
+}
+.container {
+  margin-top: 70px;
+  background-color: #222222;
+}
+.homeImg {
+  width: 100%;
+}
+#stats {
+  padding-top: 60px;
+  color : white;
+}
+#stats img {
+  width: 100%;
+}
